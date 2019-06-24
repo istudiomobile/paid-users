@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
+Angular component built with the new Elements API to generate an element that reads data from School Manager database and builds a chart to display such data on screen using a re-usable component to be inserted in the School Manager Dashboard built with React.js.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
